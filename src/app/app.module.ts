@@ -4,6 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { ContadorModule } from './contador/contador/contador.module';
 
+
 import { HeroesModule } from './heroes/heroes.module';
 
 
